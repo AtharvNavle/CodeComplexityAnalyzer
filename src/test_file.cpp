@@ -1,16 +1,16 @@
 #include <iostream>
 
-// This is a comment
+
 
 // Simple function example
 void myFunction(int a, double b) {
-    // Do something
+   
 }
 
-// Function without body
+
 int add(int x, int y);
 
-// Main function
+
 int main() {
     int x = 0;
 
