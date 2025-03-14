@@ -22,30 +22,3 @@ P = Number of connected components (usually 1 in most programs)
 Installation:
 To use the Code Complexity Analyzer, follow these steps:
 
-Clone the Repository:
-
-bash
-Copy
-#git clone https://github.com/yourusername/CodeComplexityAnalyzer.git
-Navigate to the Project Directory:
-
-bash
-Copy
-cd CodeComplexityAnalyzer
-Build the Project (assuming you’re using Visual Studio or a similar IDE):
-
-Open the project in your IDE and build the solution.
-Run the Analyzer:
-
-Ensure you have a valid C/C++ source code file to analyze (e.g., test_file.cpp).
-Execute the program, providing the file you want to analyze as input.
-bash
-Copy
-./a.exe test_file.cpp
-How to Use:
-Prepare a C/C++ source file (e.g., example.cpp) to analyze.
-Run the analyzer using the executable built from the project.
-Review the output, which will include:
-Detected functions.
-Detected control flow structures (such as if, for, while).
-The Cyclomatic Complexity score for the codebase.
