@@ -47,4 +47,10 @@ The analyzer scans C/C++ source files, identifies key components such as functio
 
    Clone the project repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/CodeComplexityAnalyzer.git
+   git clone https://github.com/AtharvNavle/CodeComplexityAnalyzer.git
+```
+### 2. **Navigate to the Project Directory:**
+
+   Change to the project directory:
+   ```bash
+   cd CodeComplexityAnalyzer
